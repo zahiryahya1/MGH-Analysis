@@ -1,5 +1,5 @@
-title: "Massachusetts General Hospital: Patient Encounter and Cost Analysis Report"
-logo: "" # optional logo path
+title: "Massachusetts General Hospital Analysis"
+logo: assets/images/mgh-logo.jpg
 show_download: false
 remote_theme: "pages-themes/minimal@v0.2.0"
 
