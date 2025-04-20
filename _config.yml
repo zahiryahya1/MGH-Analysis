@@ -1,6 +1,6 @@
 title: "Massachusetts General Hospital Analysis"
 logo: assets/images/mgh-logo2.jpg
-show_download: false
+show_download: true
 remote_theme: "pages-themes/minimal@v0.2.0"
 
 plugins:
