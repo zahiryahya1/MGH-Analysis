@@ -1,4 +1,4 @@
-# Massachusetts General Hospital: Patient Encounter & Cost Analysis Report
+# Project Report
 
 ##### Tools: SQL
 
