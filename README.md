@@ -81,23 +81,54 @@ This analysis used data sourced from Massachusetts General Hospital. Data is div
 - Insurance Coverage Rate: 30.6% of total cost
 - Encounter Types: 
 
-![alt text](encounter_type.png)
+![alt text](/assets/images/encounter_type.png)
+
+### 4. Procedure Analysis
+- Total Insured Procedures: 19,084 (68.4%)
+- Total Uninsured Procedures: 8,807 (31.6%)
+- Average Procedure Cost: $2,210
+- Average Procedure Duration: ~34 minutes
+- Average Procedures per Encounter: ~3
+
+### 5. Payer Breakdown
+- Top Payers by Encounter Volume:
+  - Medicare: 40.8%
+  - No Insurance: 31.6%
+
+![alt text](/assets/images/payer_rank.png)
+
+
+- Top Payers by Coverage %:
+- 
+![alt text](/assets/images/payer_coverage.png)
+
 
 ## Recommendations
 
+1. Improve Insurance Negotiations with Private Payers:
+Many insurers cover <1% of cost, despite participating in many encounters. Advocate for better reimbursement contracts.
+
+
+2. Reduce Out-of-Pocket Burden:
+Insured Patients are covering nearly 50% of costs. This may create financial barriers to care and increase readmissions.
+
+
+3. Target Readmissions Strategically:
+With 88% of patients readmitted, implementing care follow-up or home health programs could reduce re-visits and lower costs.
 
 
 ## Clarifying Questions, Assumptions, and Caveats
 
 ### Assumptions:
+- Average cost includes both procedures and other visit charges.
+- Readmission is defined as any return visit within the dataset time window.
 
 
 ### Questions for Stakeholders:
+- Should this analysis be broken down further by department (e.g., ER vs. inpatient)?
+- Should we want to analyze trends by day of week, season, or only by month/year?
+- Do we care about what type of encounters are most frequent and cost? 
 
 
-### Missing Information:
-
-
-
-(insert linebreak or footer) 
+---
 This report serves as an initial exploration of the coffee shop’s sales data. Future analysis will include a more in-depth study, visualizations, and a Dashboard to provide actionable insights for business strategy.
