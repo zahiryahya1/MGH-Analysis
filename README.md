@@ -81,7 +81,7 @@ This analysis used data sourced from Massachusetts General Hospital. Data is div
 - Insurance Coverage Rate: 30.6% of total cost
 - Encounter Types: 
 
-![alt text](/assets/images/encounter_type.png)
+     ![alt text](/assets/images/encounter_type.png)
 
 ### 4. Procedure Analysis
 - Total Insured Procedures: 19,084 (68.4%)
@@ -95,12 +95,12 @@ This analysis used data sourced from Massachusetts General Hospital. Data is div
   - Medicare: 40.8%
   - No Insurance: 31.6%
 
-![alt text](/assets/images/payer_rank.png)
+     ![alt text](/assets/images/payer_rank.png)
 
 
 - Top Payers by Coverage %:
-- 
-![alt text](/assets/images/payer_coverage.png)
+
+     ![alt text](/assets/images/payer_coverage.png)
 
 
 ## Recommendations
